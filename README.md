@@ -38,7 +38,7 @@
 - no executables(?), lacks good documentation, very steep learning curve,
   lacks good tutorials
 
-## Haskell (added by https://github.com/hoheinzollern)
+## Haskell (added by [hoheinzollern](https://github.com/hoheinzollern))
 + "type-safe", concurrency
 - hard to read (recursion), difficult for beginners, no loops, overuse of lists
 
