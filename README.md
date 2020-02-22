@@ -55,6 +55,11 @@
 - Lisp/Clojure/Scheme/Racket
 - Scala
 - C#?
+- Crystal (-not win/arm?)
+- Kotlin
+- Elm
+- Elixir (+fault tolerant restarts)
+- Dart
 
 Tests:
 - client-server
